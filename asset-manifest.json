@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/poultry-farm/static/css/main.faac1417.css",
+    "main.js": "/poultry-farm/static/js/main.d578e517.js",
+    "static/js/787.5bfa695e.chunk.js": "/poultry-farm/static/js/787.5bfa695e.chunk.js",
+    "static/media/khadaknath.jpg": "/poultry-farm/static/media/khadaknath.b567b6641a28c9478002.jpg",
+    "static/media/KadaknathEgg.jpg": "/poultry-farm/static/media/KadaknathEgg.48b2020453bb23db2417.jpg",
+    "static/media/eggs.png": "/poultry-farm/static/media/eggs.edf30b630cc27aa2649c.png",
+    "static/media/logo.ico": "/poultry-farm/static/media/logo.b01318aff560c4efc10c.ico",
+    "static/media/Ancona.webp": "/poultry-farm/static/media/Ancona.da734d7199fcb8a835be.webp",
+    "static/media/Grampariya.jpg": "/poultry-farm/static/media/Grampariya.15e9abff1e4b0c3adc0b.jpg",
+    "static/media/AseelEggs.jpg": "/poultry-farm/static/media/AseelEggs.cc73a982548b9a728aa8.jpg",
+    "static/media/Asil.jpg": "/poultry-farm/static/media/Asil.fd5ccc227b9954694276.jpg",
+    "index.html": "/poultry-farm/index.html",
+    "main.faac1417.css.map": "/poultry-farm/static/css/main.faac1417.css.map",
+    "main.d578e517.js.map": "/poultry-farm/static/js/main.d578e517.js.map",
+    "787.5bfa695e.chunk.js.map": "/poultry-farm/static/js/787.5bfa695e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faac1417.css",
+    "static/js/main.d578e517.js"
+  ]
+}
